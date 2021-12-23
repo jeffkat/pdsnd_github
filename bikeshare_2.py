@@ -2,7 +2,7 @@ import time
 import pandas as pd
 
 
-SECTION_DIVIDER = '-'*40
+SECTION_DIVIDER = '-'*50
 
 CITY_TO_FILENAME_MAPPING = { 'Chicago': 'chicago.csv',
                              'New York City': 'new_york_city.csv',
